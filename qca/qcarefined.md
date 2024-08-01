@@ -1,4 +1,4 @@
-# QCA Refined (1)
+# QCA Refined
 
 ### Download Essential Tools
 
