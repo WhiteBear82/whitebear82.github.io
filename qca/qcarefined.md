@@ -184,7 +184,7 @@ ffuf -mc all -fc 404 -u "http://$ip:10443/FUZZ" -w /usr/share/dirb/wordlists/com
 
 Detailed directory scan for hidden items
 
-[https://www.notion.so/whitebear82/QCA-Refined-2-9db9a0bc4a414362b18ce9fdb36ea87d?pvs=4#3677fb3db4774234aab17ac2c21d5ddd](https://www.notion.so/QCA-Refined-2-9db9a0bc4a414362b18ce9fdb36ea87d?pvs=21)
+[https://github.com/OJ/gobuster/releases](https://github.com/OJ/gobuster/releases)
 
 ```bash
 gobuster dir -u http://$ip -w /usr/share/dirb/wordlists/common.txt -k -x .txt,.php --threads 50
